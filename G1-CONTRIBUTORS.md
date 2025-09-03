@@ -4,4 +4,4 @@
 - Revilleza, Frederick (**@juantojuan**)
 - Estrera, Michaela Ma. Alexa D. (@michaela-es)
 - Abel, Zydric (**@zydric**)
-- Villadarez, Nina (**theninanicole**)
+- Villadarez, Nina (**@theninanicole**)
